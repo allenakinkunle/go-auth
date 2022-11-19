@@ -6,3 +6,8 @@
 * Generate a JWT Token
 * Validate a JWT Token
 * Generate random SHA1 tokens
+
+
+## Installation
+```
+go get github.com/allenakinkunle/go-auth
